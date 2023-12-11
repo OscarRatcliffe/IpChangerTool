@@ -9,16 +9,17 @@ app.on('ready', () => {
   tray = new Tray('assets/TempIcon.png');
   
   function changeIP(IP:String | null) {
-    console.log(IP)
-
+    
     let adapter = "Ethernet 3"
     let subnet = "255.255.0.0"
     let gateway = "10.0.0.1"
-
-    let command = `netsh interface ip set address name='${adapter}' static ${IP} ${subnet} ${gateway}`
+    
+    let command = `netsh interface ip set address name="${adapter}" static ${IP} ${subnet} ${gateway}`
+    
+    console.log(command)
 
     exec(command, (error:any, stdout:any, stderr:any) => {
-      
+
       if (error) {
         console.error(`Error executing command: ${error.message}`);
         return;

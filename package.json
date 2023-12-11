@@ -5,6 +5,7 @@
   "main": "build/main.js",
   "author": "Oscar Ratcliffe",
   "scripts": {
+    "test": "tsc && electron .",
     "start": "electron-forge start",
     "build": "electron-forge make",
     "package": "electron-forge package",
