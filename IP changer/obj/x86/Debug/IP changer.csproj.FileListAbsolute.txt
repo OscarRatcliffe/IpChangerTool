@@ -1,0 +1,45 @@
+D:\Programming\IPchangerSysTray\IP changer\IP changer\bin\x86\Debug\App.xbf
+D:\Programming\IPchangerSysTray\IP changer\IP changer\bin\x86\Debug\MainPage.xbf
+D:\Programming\IPchangerSysTray\IP changer\IP changer\bin\x86\Debug\IP changer.xr.xml
+D:\Programming\IPchangerSysTray\IP changer\IP changer\bin\x86\Debug\IP changer.exe
+D:\Programming\IPchangerSysTray\IP changer\IP changer\bin\x86\Debug\IP changer.pdb
+D:\Programming\IPchangerSysTray\IP changer\IP changer\bin\x86\Debug\resources.pri
+D:\Programming\IPchangerSysTray\IP changer\IP changer\bin\x86\Debug\AppxManifest.xml
+D:\Programming\IPchangerSysTray\IP changer\IP changer\bin\x86\Debug\Core\AppxManifest.xml
+D:\Programming\IPchangerSysTray\IP changer\IP changer\bin\x86\Debug\Core\IP changer.exe
+D:\Programming\IPchangerSysTray\IP changer\IP changer\bin\x86\Debug\IP changer.build.appxrecipe
+D:\Programming\IPchangerSysTray\IP changer\IP changer\bin\x86\Debug\System.Runtime.dll
+D:\Programming\IPchangerSysTray\IP changer\IP changer\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\IP changer.csproj.AssemblyReference.cache
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\App.g.i.cs
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\App.g.cs
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\MainPage.g.i.cs
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\MainPage.g.cs
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\App.xaml
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\MainPage.xaml
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\App.xbf
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\MainPage.xbf
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\IP changer.csproj.CoreCompileInputs.cache
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\IP changer.csproj.CopyComplete
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\IP changer.exe
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\IP changer.pdb
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\ResourceHandlingTask.state
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\priconfig.xml
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\priconfig.xml.intermediate
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\filtered.layout.resfiles
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\excluded.layout.resfiles
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\resources.resfiles
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\resources.resfiles.intermediate
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\pri.resfiles
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\pri.resfiles.intermediate
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\qualifiers.txt
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\ProjectArchitectures.txt
+D:\Programming\IPchangerSysTray\IP changer\IP changer\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638017865300000000.json
