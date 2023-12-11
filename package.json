@@ -5,6 +5,6 @@
   "main": "main.js",
   "author": "Oscar Ratcliffe",
     "scripts": {
-    "start": "electron ."
+    "start": "tsc && cd build && electron . && cd .."
   }
 }
