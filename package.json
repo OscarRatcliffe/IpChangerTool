@@ -1,0 +1,10 @@
+{
+  "name": "ip-changer",
+  "version": "1.0.0",
+  "description": "IP changer app",
+  "main": "main.js",
+  "author": "Oscar Ratcliffe",
+    "scripts": {
+    "start": "electron ."
+  }
+}
