@@ -2,9 +2,24 @@
   "name": "ip-changer",
   "version": "1.0.0",
   "description": "IP changer app",
-  "main": "main.js",
+  "main": "build/main.js",
   "author": "Oscar Ratcliffe",
-    "scripts": {
-    "start": "tsc && cd build && electron . && cd .."
+  "scripts": {
+    "start": "electron-forge start",
+    "build": "electron-forge make",
+    "package": "electron-forge package",
+    "make": "electron-forge make"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^7.2.0",
+    "@electron-forge/maker-deb": "^7.2.0",
+    "@electron-forge/maker-rpm": "^7.2.0",
+    "@electron-forge/maker-squirrel": "^7.2.0",
+    "@electron-forge/maker-zip": "^7.2.0",
+    "@electron-forge/plugin-auto-unpack-natives": "^7.2.0",
+    "electron": "28.0.0"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0"
   }
 }
