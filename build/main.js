@@ -4,12 +4,18 @@ const fs = require('fs');
 const { exec } = require('child_process');
 let tray = null;
 app.on('ready', () => {
-    tray = new Tray('assets/TempIcon.png');
+    tray = new Tray('assets/Icon.png');
     function changeIP(IP) {
-        let adapter = "Ethernet 3";
+        let adapter = "Wifi";
         let subnet = "255.255.0.0";
         let gateway = "10.0.0.1";
-        let command = `netsh interface ip set address name="${adapter}" static ${IP} ${subnet} ${gateway}`;
+        let command;
+        if (IP != null) {
+            command = `netsh interface ip set address name="${adapter}" static ${IP} ${subnet} ${gateway}`;
+        }
+        else {
+            command = `netsh interface ip set address name="${adapter}" source=dhcp`;
+        }
         console.log(command);
         exec(command, (error, stdout, stderr) => {
             if (error) {

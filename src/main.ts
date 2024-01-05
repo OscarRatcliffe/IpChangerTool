@@ -6,15 +6,25 @@ let tray = null;
 
 app.on('ready', () => {
 
-  tray = new Tray('assets/TempIcon.png');
+  tray = new Tray('assets/Icon.png');
   
   function changeIP(IP:String | null) {
     
-    let adapter = "Ethernet 3"
+    let adapter = "Ethernet"
     let subnet = "255.255.0.0"
     let gateway = "10.0.0.1"
+
+    let command: string;
     
-    let command = `netsh interface ip set address name="${adapter}" static ${IP} ${subnet} ${gateway}`
+    if (IP != null) {
+
+      command = `netsh interface ip set address name="${adapter}" static ${IP} ${subnet} ${gateway}`
+
+    } else {
+
+      command = `netsh interface ip set address name="${adapter}" source=dhcp`
+
+    }
     
     console.log(command)
 
@@ -31,7 +41,9 @@ app.on('ready', () => {
       }
     
       console.log(`Command output: ${stdout}`);
+
     });
+
   }
 
   const IPlist = JSON.parse(fs.readFileSync('data/IPs.json', 'utf8'));
